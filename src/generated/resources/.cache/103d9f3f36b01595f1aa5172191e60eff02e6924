@@ -1,0 +1,4 @@
+// 1.20.6	2024-05-17T19:30:14.2863729	Registries
+c7a5b0cdf188774b54d96360a8fb3caad133cc29 data/forgebiomecrash/forge/biome_modifier/add_overworld_silver_ore.json
+b538e74d9c567a3ae0414b823ddd5db1ff412c42 data/forgebiomecrash/worldgen/configured_feature/overworld_silver_ore.json
+266d057f71b3ffd6154e34340226d030de81bd6b data/forgebiomecrash/worldgen/placed_feature/overworld_silver_ore_placed.json
